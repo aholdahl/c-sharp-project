@@ -27,6 +27,10 @@ You should see a pop-up to build required assets to the project. Click Yes.
 
 Built using instructions from : https://daveabrock.com/2018/03/05/full-stack-development-in-vs-code-with-asp-net-core/
 
+# Package Manager
+
+dotnet add package is similar to npm install. The official package manager for .Net is NuGet
+
 # Install NPGSQL
 
 Note: This is like pg and JDBC in that it allows C# to use PostgreSQL
