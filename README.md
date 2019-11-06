@@ -53,3 +53,16 @@ Create the database as normal in Postico
 ## Helpful Links
 
 https://medium.com/@alialhaddad/build-a-basic-fullstack-app-using-c-net-core-mysql-and-webpack-react-1-3-73cfb64daeb6
+
+## Terminology
+
+Solution - the project
+  Namespace/Library - the file structure
+    Class/Model - the feature component
+
+/// <summary>
+/// Apparently, this is how you add an XML comment to C# projects...
+/// </summary>
+/// <param name="sampleVariable">
+/// And this is how you document about the parameter of the object
+/// </param>
